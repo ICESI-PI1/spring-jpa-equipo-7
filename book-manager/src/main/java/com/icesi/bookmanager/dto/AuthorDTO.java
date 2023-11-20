@@ -8,7 +8,6 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 @Data
 public class AuthorDTO {
-        private Long id;
         private String name;
         private String nationality;
 }

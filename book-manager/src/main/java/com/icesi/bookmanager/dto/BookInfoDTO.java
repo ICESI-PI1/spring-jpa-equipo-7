@@ -9,8 +9,9 @@ import java.util.Date;
 @NoArgsConstructor
 @AllArgsConstructor
 @Data
-public class BookDTO {
-    private Long authorId;
+public class BookInfoDTO {
+    private Long book_id;
     private String title;
     private Date publicationDate;
+    private String authorName;
 }
