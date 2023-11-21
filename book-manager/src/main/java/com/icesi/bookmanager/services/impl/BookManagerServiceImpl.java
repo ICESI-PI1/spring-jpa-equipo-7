@@ -1,6 +1,5 @@
 package com.icesi.bookmanager.services.impl;
 
-import com.icesi.bookmanager.dto.AuthorDTO;
 import com.icesi.bookmanager.dto.BookDTO;
 import com.icesi.bookmanager.repository.model.Author;
 import com.icesi.bookmanager.repository.model.Book;
